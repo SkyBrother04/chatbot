@@ -11,3 +11,8 @@ This is a simple chatbot implementation using Natural Language Processing (NLP) 
 1. Install the required libraries:
    ```bash
    pip install nltk
+python chatbot.py
+
+git add README.md
+git commit -m "Added README file"
+git push origin main
